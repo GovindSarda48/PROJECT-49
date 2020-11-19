@@ -1,0 +1,15 @@
+body{
+    font-family: cursive;
+}
+
+.header{
+    background-color: darkmagenta;
+}
+
+.social{
+    background-color:darkcyan;
+}
+
+a{
+    font-size: 20px;
+}
